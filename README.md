@@ -1,4 +1,4 @@
-<h1 style="margin-left:500px">
+<h1 align="center">
 	👋 Hello , I am Arjun Kumar Das.
 </h1>
 
