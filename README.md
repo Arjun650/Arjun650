@@ -1,4 +1,4 @@
-<h1 style=" color:red;">
+<h1 style="background:red;">
 	👋 Hello , I am Arjun Kumar Das.
 </h1>
 
