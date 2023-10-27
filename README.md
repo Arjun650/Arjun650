@@ -1,4 +1,4 @@
-<h1>
+<h1 style="align:center;">
 	👋 Hello , I am Arjun Kumar Das.
 </h1>
 <div style=" display:flex; justify-Content:center; align-items:center;">
