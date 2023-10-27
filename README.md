@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 </div>
 <h3 align="center">Coding and tech enthusiast, always striving to push the boundaries. Proficient in HTML , CSS , JavaScript . Let's create something revolutionary!</h3>
+<img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun650" alt="arjun650" /></a> </p>
 
