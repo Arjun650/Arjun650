@@ -1,4 +1,6 @@
-<h1 align="center">Hi😎 , I'm Arjun Kumar Das</h1>
+<div>
+	<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
+</div>
 <div style=" display:flex; justify-Content:center; align-items:center;">
   
 <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
