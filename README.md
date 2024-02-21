@@ -6,7 +6,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 </div>
-<h3 align="center">Coding and tech enthusiast, always striving to push the boundaries. Proficient in HTML , CSS , JavaScript . Let's create something revolutionary!</h3>
+<h3 align="center">Coding and tech enthusiast, always striving to push the boundaries. Proficient in C, HTML, CSS, JavaScript . Let's create something revolutionary!</h3>
 
 <div style=" display:flex; justify-content:center; align-items:center;"> 
 	<img style="width: 100vw;" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning Data Structure and Algorithm
 
-- 💬 Ask me about **HTML , CSS , C , Javascript** 
+- 💬 Ask me about **HTML, CSS, C, Javascript** 
 
 - 📫 How to reach me <a href="https://instagram.com/d.arjun03?igshid=MzNlNGNkZWQ4Mg==">Arjun Das</a>
 
