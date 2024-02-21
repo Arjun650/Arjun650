@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun650" alt="arjun650" /></a> </p>
 
-- 🌱 I’m currently learning ** C++**
+- 🌱 I’m currently learning Data Structure and Algorithm
 
 - 💬 Ask me about **HTML , CSS , C , Javascript** 
 
