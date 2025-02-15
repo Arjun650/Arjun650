@@ -96,6 +96,9 @@
   <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
     <img src="https://www.techasoft.com/debug/img/shell-script.png" alt="shell script" width="40" height="40"/>
   </a>
+	<a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
+    <img src="[https://www.techasoft.com/debug/img/shell-script.png](https://cdn-icons-png.freepik.com/256/15886/15886932.png?uid=R80181385&ga=GA1.1.537983479.1739607249&semt=ais_hybrid)" alt="shell script" width="40" height="40"/>
+  </a>
 </p>
 
 
