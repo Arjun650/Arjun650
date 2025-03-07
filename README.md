@@ -98,7 +98,7 @@
   </a>
 
 </p>
-
+<figure><embed src="https://wakatime.com/share/@018ee658-b221-4873-a944-e2305ebfaee7/9abb5d64-ee64-4569-a271-f54ca05077ba.svg"></embed></figure>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun650&show_icons=true&locale=en&layout=compact" alt="arjun650" /></p>
 
