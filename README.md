@@ -98,7 +98,7 @@
   </a>
 
 </p>
-<figure width='60' height='60'>
+<figure width='500' height='500'>
   <img src="https://wakatime.com/share/@018ee658-b221-4873-a944-e2305ebfaee7/5060afec-9dab-441f-aca0-bb7d0ea155b5.svg" width='60' height='60' alt="Wakatime chart">
 </figure>
 
