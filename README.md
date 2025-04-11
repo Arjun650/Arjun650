@@ -8,7 +8,7 @@
 </div>
 <h3 align="center">Coding and tech enthusiast, always striving to push the boundaries. Proficient in Full Stack Development. Let's create something revolutionary!</h3>
 
-<div style=" display:flex; justify-content:center; align-items:center;"> 
+<div style=" display:flex; justify-content:center; align-items:center;">  
 	<img style="width: 100vw;" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
 
