@@ -14,7 +14,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun650" alt="arjun650" /></a> </p>
 
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I’m currently learning DSA, NextJS,
+  
+- 😄 Pronouns: He/Him
 
 - 💬 Ask me about **Java, JavaScript, FullStack Development** 
 
